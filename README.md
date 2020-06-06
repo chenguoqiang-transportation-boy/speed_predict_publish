@@ -6,5 +6,5 @@
 地图代码是直接用的高德地图给的代码，需要在高德地图开发者平台申请密钥，不然运行不起
 
 # 结果
-![image](https://github.com/chenguoqiang-transportation-boy/speed_predict_publish/blob/master/images_show/image5.png)
-![image](https://github.com/chenguoqiang-transportation-boy/speed_predict_publish/blob/master/images_show/image6.png)
+![image](https://github.com/chenguoqiang-transportation-boy/speed_predict_publish/blob/master/images_show/image7.png)
+![image](https://github.com/chenguoqiang-transportation-boy/speed_predict_publish/blob/master/images_show/image8.png)
